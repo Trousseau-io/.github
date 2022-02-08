@@ -7,7 +7,7 @@
 # Welcome to the Trousseau Git repo!
 
 The project repositories migrated to the [Ondat](https://ondat.io) organization as part of their Open Source Strategy.   
-**Here is the link: [https://github.com/ondat/trousseau](https://github.com/ondat/trousseau)**
+***Here is the link: [https://github.com/ondat/trousseau](https://github.com/ondat/trousseau)***
 
 ### why Trousseau
 
